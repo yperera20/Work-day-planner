@@ -22,6 +22,6 @@ To run this project, you will need the following software installed on your mach
 - Web browser (e.g., Chrome, Firefox)
 
 ## Website : 
-To access the work day planner: 
+To access the work day planner: https://yperera20.github.io/Work-day-planner/
 
 ![Alt text](image.png)
